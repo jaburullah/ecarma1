@@ -13,6 +13,7 @@ under android folder create a file called local.properties and add the following
 sdk.dir =/Users/{username}/Library/Android/sdk
 ```
 
+## keystore files
 Keep debug.keystore and ercama-key.keystore files under android/app folder
 
 
