@@ -20,3 +20,12 @@ Keep debug.keystore and ercama-key.keystore files under android/app folder
 
 ### Android virtual devices
 * [virtual devices setup](https://developer.android.com/studio/run/managing-avds) - Create and manage virtual devices
+
+
+
+## Run app on Android virtual devices
+Virtual device is up and running run the following command. This command will install the app on virtual devices
+
+```
+react-native run-android
+```
